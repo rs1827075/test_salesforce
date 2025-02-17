@@ -2,6 +2,7 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>TaskCreation</members>
+         <members>LeadAssignment</members>
         <name>ApexTrigger</name>
     </types>
     
